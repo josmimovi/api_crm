@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "José Miguel",
+      "empresa": "Google",
+      "email": "josmi_movi@hotmail.com",
+      "telefono": "86275401 ",
+      "notas": "Application",
+      "id": 1
+    },
+    {
+      "nombre": "Joe",
+      "empresa": "Facebook",
+      "email": "josmi_movi@hotmail.com",
+      "telefono": "86275401 ",
+      "notas": "Application",
+      "id": 3
+    },
+    {
+      "nombre": "Josmi Movi",
+      "empresa": "Netflix",
+      "email": "josmi_movi@hotmail.com",
+      "telefono": "86275401 ",
+      "notas": "Application",
+      "id": 5
+    },
+    {
+      "nombre": "John Doe",
+      "empresa": "Disney+",
+      "email": "josmi_movi@hotmail.com",
+      "telefono": "86275401 ",
+      "notas": "Application",
+      "id": 6
+    }
+  ]
+}
